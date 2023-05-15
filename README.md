@@ -5,7 +5,9 @@ Vehicle details:
 2.5L dCI 115hp Euro 3 turbo-diesel engine
 Rotating front seats
 General Grabber AT3 215/65 R16 all-season tyres with about 15000km on them; DOT: HWAE HMPX 0419 (Manufactured: 2019-01-21)
+
 12V Mannesmann compressor: https://www.amazon.de/Mannesmann-Mini-Alu-Kompressor-140-PSI-M01790/dp/B000ET2E74
+
 Reversing camera
 Multimedia + navigation system which takes flash drivers, microSD cards, Bluetooth and 9mm stereo cable. Comes with a 64GB MicroSD.
 Engine air conditioning - Euro 3 means you have no DPF and EGR to get clogged so idling with the A/C turned on for hours is not a problem
